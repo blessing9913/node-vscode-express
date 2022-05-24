@@ -2,14 +2,6 @@ body {
 	background-color: white;
 }
 
-.gold {
-	color: gold;
-}
-
-.green {
-	color: green
-}
-
-.font-big {
-	font-size: 24px
+.profileImage {
+	width: 300px;
 }
